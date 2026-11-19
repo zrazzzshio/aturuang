@@ -1,0 +1,8 @@
+:root {
+  --navy:#10233F; --navy-2:#183454; --gold:#D9AD5B; --bg:#F5F7FA; --white:#fff;
+  --success:#16A36A; --danger:#DC5555; --warning:#D99532;
+  --text:#243247; --muted:#7B8798; --border:#E8ECF1;
+  --font-heading:'Plus Jakarta Sans',sans-serif; --font-body:'Inter',sans-serif;
+  --radius-sm:9px; --radius-md:14px; --radius-lg:20px; --radius-xl:26px;
+  --shadow:0 8px 28px rgba(16,35,63,.06); --transition:.2s ease;
+}
